@@ -116,7 +116,26 @@ np.mean(predict(res.x,X)==y)
 ```
 
 ## Output:
-![logistic regression using gradient descent](sam.png)
+![Screenshot 2023-10-16 213345](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/044e9b63-8484-42d2-a09a-c067863bb429)
+
+
+![Screenshot 2023-10-16 213305](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/70afb45e-e201-4bcc-bc38-0531ba3ea1ba)
+
+
+![Screenshot 2023-10-16 213314](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/f328fd74-731b-4254-82cf-31d095436b87)
+
+
+![Screenshot 2023-10-16 213322](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/b803aa99-e9fe-49e7-9521-84d597c381bc)
+
+![Screenshot 2023-10-16 213331](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/f3c8c368-6adb-44f7-b019-ca48268885a2)
+
+![Screenshot 2023-10-16 213337](https://github.com/Dharshan011/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/113497491/9765219c-44d2-4a6b-ab18-f8d5e21cba8c)
+
+
+
+
+
+
 
 
 ## Result:
